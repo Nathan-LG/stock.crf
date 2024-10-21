@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@auth/prisma-adapter": "^2.7.0",
-    "@prisma/client": "^5.20.0",
+    "@prisma/client": "^5.21.1",
     "@tabler/core": "1.0.0-beta21",
     "@tabler/icons": "^3.19.0",
     "@tabler/icons-react": "^3.19.0",
