@@ -85,8 +85,8 @@ importers:
         specifier: ^1.12.0
         version: 1.12.0
       twilio:
-        specifier: ^5.3.6
-        version: 5.3.6
+        specifier: ^5.3.7
+        version: 5.3.7
       use-debounce:
         specifier: ^10.0.4
         version: 10.0.4(react@19.0.0-rc-69d4b800-20241021)
@@ -2824,8 +2824,8 @@ packages:
   tslib@2.7.0:
     resolution: {integrity: sha512-gLXCKdN1/j47AiHiOkJN69hJmcbGTHI0ImLmbYLHykhgeN0jVGola9yVjFgzCUklsZQMW55o+dW7IXv3RCXDzA==}
 
-  twilio@5.3.6:
-    resolution: {integrity: sha512-izHce9sWpiIYyFeZ5pJb5KQeHQ6NDyGuCQ+BOTbBS64ZWq+0InWXvWjZsXbFwGFrhn5MQq0ulouLtYOXiEYY8g==}
+  twilio@5.3.7:
+    resolution: {integrity: sha512-9PaIXQ2CSfKKKjsQ7YpLRi7vo77ryevjoylR+7uSB0D/9t5VOYz+QNxNuR3YGk9UCt/f5pxzjVQraWVI5lQFSQ==}
     engines: {node: '>=14.0'}
 
   type-check@0.4.0:
@@ -6038,7 +6038,7 @@ snapshots:
 
   tslib@2.7.0: {}
 
-  twilio@5.3.6:
+  twilio@5.3.7:
     dependencies:
       axios: 1.7.7
       dayjs: 1.11.13
