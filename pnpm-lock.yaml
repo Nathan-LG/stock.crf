@@ -28,8 +28,8 @@ importers:
         specifier: 1.0.0-beta21
         version: 1.0.0-beta21(apexcharts@3.54.1)(imask@6.6.3)(tom-select@2.3.1)
       '@tabler/icons':
-        specifier: ^3.23.0
-        version: 3.23.0
+        specifier: ^3.24.0
+        version: 3.24.0
       '@tabler/icons-react':
         specifier: ^3.22.0
         version: 3.22.0(react@19.0.0-rc-69d4b800-20241021)
@@ -1075,6 +1075,9 @@ packages:
 
   '@tabler/icons@3.23.0':
     resolution: {integrity: sha512-Cz+X58jfRm0g/KcupXXuPw5knj671lNR054AnmLXvCjudiQBWI0wZulDDSsqDoGezvBzMTNPQtNcjLkZs82ZxQ==}
+
+  '@tabler/icons@3.24.0':
+    resolution: {integrity: sha512-qNis9e90QcdxAGV3wNIeX0Ba2R7ktm0cnqOToKHJfC2kj3fvJwEVLsw63K0/fm7NW8rSZjDSTQRmMnSg8g/wrg==}
 
   '@tsconfig/node10@1.0.11':
     resolution: {integrity: sha512-DcRjDCujK/kCk/cUe8Xz8ZSpm8mS3mNNpta+jGCA6USEDfktlNvm1+IuZ9eTcDbNk41BHwpHHeW+N1lKCz4zOw==}
@@ -4052,7 +4055,7 @@ snapshots:
   '@tabler/core@1.0.0-beta21(apexcharts@3.54.1)(imask@6.6.3)(tom-select@2.3.1)':
     dependencies:
       '@popperjs/core': 2.11.8
-      '@tabler/icons': 3.23.0
+      '@tabler/icons': 3.24.0
       bootstrap: 5.3.3(@popperjs/core@2.11.8)
     optionalDependencies:
       apexcharts: 3.54.1
@@ -4071,6 +4074,8 @@ snapshots:
   '@tabler/icons@3.22.0': {}
 
   '@tabler/icons@3.23.0': {}
+
+  '@tabler/icons@3.24.0': {}
 
   '@tsconfig/node10@1.0.11': {}
 
