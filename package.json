@@ -20,7 +20,7 @@
     "@tabler/core": "1.0.0-beta21",
     "@tabler/icons": "^3.24.0",
     "@tabler/icons-react": "^3.22.0",
-    "@tabler/icons-webfont": "^3.23.0",
+    "@tabler/icons-webfont": "^3.26.0",
     "@typescript-eslint/eslint-plugin": "8.15.0",
     "@typescript-eslint/parser": "8.17.0",
     "apexcharts": "^3.54.1",
